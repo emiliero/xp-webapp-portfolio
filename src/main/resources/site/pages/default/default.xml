@@ -1,0 +1,8 @@
+<page>
+  <display-name>Frontpage</display-name>
+  <description>Front page of our site</description>
+  <form/>
+  <regions>
+    <region name="main"/>
+  </regions>
+</page>

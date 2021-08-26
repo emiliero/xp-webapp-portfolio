@@ -1,0 +1,11 @@
+$bg-color: white;
+
+
+*, body {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  background-color: $bg-color;
+}
